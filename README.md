@@ -21,22 +21,24 @@ Parliamo dunque della tecnologia di cui siamo entusiasti, degli argomenti teoric
 
 **No Bot**: non sono ammessi bot nel gruppo salvo eventuali che gli amministratori potrebbero ritenere necessari a loro discrezione.
 
+**No Against**: questa chat non nasce in contrapposizione ad altre o in polemica verso i di quelle moderatori. 
+
 #### 1- Rimani sul topic. 
 
 Ti interessa qualcos’altro? *Bene*, è più che legittimo (e anche molto *sano*, per la verità).
 
-Semplicemente, per favore, **non venite a cercarlo qui**.
+Semplicemente, per favore, **non venire a cercarlo qui**.
 
 Ci sono molti alti gruppi Telegram e Facebook  oltre a questo, sui temi più disparati, comprese le altre cryptovalute. Ci sono anche molti altri chat app e social network oltre a questo. Ci sono anche molte altre cose belle da fare nella vita oltre a chattare! Questo gruppo non è un luogo per lamentarsi di continuo dell’ingiustizia della vita, per esprimere in modo estenuante la tua poliedrica e pittoresca personalità, per profetizzare all’infinito l’imminente fine del mondo (o del Bitcoin), per spammare o per pubblicizzare tue iniziative personali e/o particolari non attinenti al Bitcoin. 
 
 Questo non è un gruppo di discussione di questioni varie eventuali. Con questo non si sminuisce l’importanza di altri temi (come possono essere il calcio, l’amore, la religione, la politica estera, la bioetica, il terrorismo, l’effetto serra, i problemi della giustizia e dell’immigrazione, la sessualità, l’estinzione dei panda,il cinema, la musica, la moralità, il senso della vita)... semplicemente si dichiara che lo *scopo* di questo gruppo è trattare **solo** quelli sopra esplicitati, e non tutti. E’ una cosa buona che tu non parli solo di Bitcoin nella tua vita (sarebbe inquietante)...passa da queste parti solo quando vuoi parlare di quello, per piacere. 
 
-Mentre si parla può accadere di andare fuori tema e gli amministratori cercheranno di essere (equamente) ragionevoli nel caso accada. Come utenti cercate di non abusarne.
+Mentre si parla può accadere di andare fuori tema e gli amministratori cercheranno di essere (equamente) ragionevoli nel caso accada. Come utente cerca di non abusarne.
 
 #### 2- Sii civile e sereno.
 Non è un luogo per sfogare le tue frustrazioni o lo stress accumulato nella giornata, né per dare sfoggio delle tue abilità coprolalistiche, né per intraprendere qualche rissa infantile o qualche crociata personale, né per porre ultimatum o emettere scomuniche. Qui si parla con tutti, **fermi nei contenuti ma educati nei modi. Non si insulta, non si minaccia.** 
 
-Se proprio qualcuno ti insulta senza motivo e ti senti in dovere di rispondere, fallo al limite una volta sola, poi continua in privato o blocca quella persona. Non iniziare guerre dei cent’anni, e cerca per piacere di non fartici nemmeno trascinare, almeno per quanto ti è umanamente possibile. Questo non è un talk show con Sgarbi che tira gli schiaffi. Se rimanete coinvolti in una polemica, tenete la discussione incentrata sul problema, non sulle persone coinvolte. Supponete sempre che gli individui parlino a titolo personale, e mai per conto delle organizzazioni di cui possono fare parte, a meno che non sia esplicitamente asserito il contrario dalla controparte. Cercate di evitare di cadere in fallacie logiche, ne trovate un elenco qui https://yourlogicalfallacyis.com
+Se proprio qualcuno ti insulta senza motivo e ti senti in dovere di rispondere, fallo al limite una volta sola, poi continua in privato o blocca quella persona. Non iniziare guerre dei cent’anni, e cerca per piacere di non fartici nemmeno trascinare, almeno per quanto ti è umanamente possibile. Questo non è un talk show con Sgarbi che tira gli schiaffi. Se rimani coinvolti in una polemica, tenete la discussione incentrata sul problema, non sulle persone coinvolte. Supponi sempre che gli individui parlino a titolo personale, e mai per conto delle organizzazioni di cui possono fare parte, a meno che non sia esplicitamente asserito il contrario dalla controparte. Cercate di evitare di cadere in fallacie logiche, ne trovate un elenco qui https://yourlogicalfallacyis.com
 
 Considera che tante persone vedranno i tuoi commenti, magari anche il tuo prossimo datore di lavoro. Assumi sempre che un commento possa rimanere archiviato su sistemi di terze parti. Utilizza maiuscole e minuscole. IL TUTTO MAIUSCOLO EQUIVALE AD URLARE.
 
@@ -48,7 +50,7 @@ Tieni conto che è un gruppo di centinaia di persone (molte delle quali ricevono
 Può capitare che la discussione degeneri facilmente e si venga subissati di messaggi inviati in rapida successione. In casi come questi perdere il filo del discorso è questione di pochi messaggi: si possono intrecciare dialoghi e discussioni differenti, rendendo illeggibile e di difficile comprensione il flusso del gruppo. Per questo motivo è consigliabile inviare un unico messaggio, anche lungo, e attendere che il destinatario (o i destinatari) risponda prima di inviare un secondo messaggio.
 
 #### 4- Rispetta la privacy
-Non richiedete agli altri utenti informazioni personali di qualsiasi tipo. Se dopo essere entrati in confidenza volete scambiare questo genere di informazioni fatelo attraverso messaggi personali e non sul gruppo.
+Non richiedere agli altri utenti informazioni personali di qualsiasi tipo. Se dopo essere entrati in confidenza volete scambiare questo genere di informazioni fatelo attraverso messaggi personali e non sul gruppo.
 Se un utente sta utilizzando un alias, un soprannome o uno pseudonimo, rispetta il suo desiderio di anonimato. Anche se si è amici intimi di quella persona è più cortese usare il suo soprannome. Non usare il vero nome di quella persona in questo gruppo senza il suo permesso.
 
 ###TRE TIPOLOGIE DI PROVVEDIMENTO:
