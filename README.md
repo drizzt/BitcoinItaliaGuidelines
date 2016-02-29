@@ -1,5 +1,13 @@
-### Regole del gruppo Telegram “Bitcoin Italia – No Troll No Propaganda” 
+### Gruppo Telegram “Bitcoin Italia – No Troll No Propaganda” 
+#### Per entrare nel gruppo
+https://telegram.me/joinchat/CLWSTwZSzn2Q1j5SsJJReg
+#### Amministrator del gruppo
+Andrea Benetton @andbene72
 
+Giacomo Zucco @giacomozucco
+
+Timothy @tredaelli
+#### Regole del gruppo
 Il gruppo è stato creato per:
   1. Discutere di Bitcoin e delle applicazioni e sviluppi della Blockchain Bitcoin.
   2. Condividere le informazioni in merito
@@ -17,11 +25,13 @@ Parliamo dunque della tecnologia di cui siamo entusiasti, degli argomenti teoric
 
 Ti interessa qualcos’altro? *Bene*, è più che legittimo (e anche molto *sano*, per la verità).
 
-Semplicemente, per favore, **non cercarlo qui**. 
+Semplicemente, per favore, **non venite a cercarlo qui**.
 
 Ci sono molti alti gruppi Telegram e Facebook  oltre a questo, sui temi più disparati, comprese le altre cryptovalute. Ci sono anche molti altri chat app e social network oltre a questo. Ci sono anche molte altre cose belle da fare nella vita oltre a chattare! Questo gruppo non è un luogo per lamentarsi di continuo dell’ingiustizia della vita, per esprimere in modo estenuante la tua poliedrica e pittoresca personalità, per profetizzare all’infinito l’imminente fine del mondo (o del Bitcoin), per spammare o per pubblicizzare tue iniziative personali e/o particolari non attinenti al Bitcoin. 
 
 Questo non è un gruppo di discussione di questioni varie eventuali. Con questo non si sminuisce l’importanza di altri temi (come possono essere il calcio, l’amore, la religione, la politica estera, la bioetica, il terrorismo, l’effetto serra, i problemi della giustizia e dell’immigrazione, la sessualità, l’estinzione dei panda,il cinema, la musica, la moralità, il senso della vita)... semplicemente si dichiara che lo *scopo* di questo gruppo è trattare **solo** quelli sopra esplicitati, e non tutti. E’ una cosa buona che tu non parli solo di Bitcoin nella tua vita (sarebbe inquietante)...passa da queste parti solo quando vuoi parlare di quello, per piacere. 
+
+Mentre si parla può accadere di andare fuori tema e gli amministratori cercheranno di essere (equamente) ragionevoli nel caso accada. Come utenti cercate di non abusarne.
 
 #### 2- Sii civile e sereno.
 Non è un luogo per sfogare le tue frustrazioni o lo stress accumulato nella giornata, né per dare sfoggio delle tue abilità coprolalistiche, né per intraprendere qualche rissa infantile o qualche crociata personale, né per porre ultimatum o emettere scomuniche. Qui si parla con tutti, **fermi nei contenuti ma educati nei modi. Non si insulta, non si minaccia.** 
