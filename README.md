@@ -6,6 +6,7 @@ https://telegram.me/joinchat/CLWSTwZSzn2Q1j5SsJJReg
   * Andrea Benetton @Andbene72
   * Giacomo Zucco @giacomozucco
   * Timothy Redaelli @tredaelli
+
 #### Regole del gruppo
 Il gruppo è stato creato per:
   1. Discutere di Bitcoin e delle applicazioni e sviluppi della Blockchain Bitcoin.
