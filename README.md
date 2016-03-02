@@ -1,6 +1,6 @@
 ### Gruppo Telegram “Bitcoin Italia – No Troll No Propaganda” 
 #### Per entrare nel gruppo
-https://telegram.me/joinchat/CLWSTwZSzn2Q1j5SsJJReg
+https://telegram.me/joinchat/CLWSTz4_Jj1ahfCSAhf71Q
 #### Amministrator del gruppo
 (in ordine strettamente alfabetico)
   * Andrea Benetton @Andbene72
